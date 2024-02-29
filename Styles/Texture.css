@@ -60,7 +60,7 @@ article{
 
 #ContactInfo{
     grid-area: CI;
-    margin-top: 480px;
+    margin-top: 550px;
 }
 
 #about{
@@ -73,17 +73,19 @@ article{
 #tab1{
     font-size: 2em;
     color: #000000;
+    align-content: center;
 }
 
 #tab1\.1{
     font-size: 2em;
     color: #000000;
+    align-content: center;
 }
 
 #tab1\.2{
     font-size: 2em;
     color: #000000;
-    margin-right: 780px;
+    margin-right: 850px;
     align-content: center;
 }
 
@@ -103,7 +105,7 @@ article{
     font-size: 2em;
     color: #000000;
     display: inline-block;
-    margin-left: 55px;
+    margin-left: 100px;
     margin-right: 300px;
     margin-top: 50px;
 }
@@ -112,10 +114,26 @@ article{
     font-size: 2em;
     color: #000000;
     display: inline-block;
-    margin-left: 300px;
+    margin-left: 320px;
 }
 
 #tab5{
+    font-size: 2em;
+    color: #000000;
+    display: inline-block;
+    margin-left: 210px;
+}
+
+#tab6{
+    font-size: 2em;
+    color: #000000;
+    display: inline-block;
+    margin-left: 300px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+
+#tab7{
     font-size: 2em;
     color: #000000;
     display: inline-block;
@@ -153,7 +171,7 @@ article{
 #ArticleBody{
     text-align: center;
     color: #000000;
-    margin-left: 400px;
+    margin-left: 500px;
     margin-right: 400px;
     word-spacing: 4px;
 }
