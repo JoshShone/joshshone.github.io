@@ -1,0 +1,189 @@
+body { /*Main body, what te amin page style will be, grid to keep everything consistent*/
+    background-color: #ffffff;
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: auto;
+    grid-template-areas:
+    "header header header header header header header header header header header header"
+    "nav nav nav nav nav nav nav nav nav nav nav nav"
+    "article article article article article article article article article article article article"
+}
+
+header{
+    grid-area: header;
+}
+    
+#title {/*Id given to title of webpage allowing for easier styling*/
+    font-size: 4.5em;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+#split{
+    color: #008000;
+    border-style: double;
+}
+
+nav{
+    grid-area: nav;
+    text-align: center;
+}
+
+article{
+    grid-area: article;
+}
+
+#BasicInfo{
+    color: #000000;
+    font-size: 1.2em;
+}
+
+#about{
+    color: #000000;
+    font-size: 1.2em;
+    grid-area: about;
+}
+
+#Page1{
+    grid-area: article;
+    align-items: center;
+}
+
+#basicInfo{
+    grid-area: BI;
+}
+
+#GPLink{
+    grid-area: GP;
+}
+
+#ContactInfo{
+    grid-area: CI;
+    margin-top: 480px;
+}
+
+#about{
+    font-size: 1.2em;
+    color: #000000;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+#tab1{
+    font-size: 2em;
+    color: #000000;
+}
+
+#tab1\.1{
+    font-size: 2em;
+    color: #000000;
+}
+
+#tab1\.2{
+    font-size: 2em;
+    color: #000000;
+    margin-right: 780px;
+    align-content: center;
+}
+
+#tab1\.3{
+    font-size: 2em;
+    color: #000000;
+    margin-right: 780px;
+}
+
+#tab2{
+    font-size: 2em;
+    color: #000000;
+    margin-left: 150px;
+}
+
+#tab3{
+    font-size: 2em;
+    color: #000000;
+    display: inline-block;
+    margin-left: 55px;
+    margin-right: 600px;
+    margin-top: 50px;
+}
+
+#tab4{
+    font-size: 2em;
+    color: #000000;
+    display: inline-block;
+    margin-left: 500px;
+}
+
+#ciTitle{
+    font-size: 1.8em;
+    color: #000000;
+    margin-left: 150px;
+}
+
+#ci{
+    font-size: 1.2em;
+    color: #000000;
+    margin-left: 150px;
+}
+
+#ci2{
+    font-size: 1.2em;
+    color: #000000;
+    margin-left: 150px;
+}
+
+#Article\ Title{
+    font-size: 2.5em;
+    text-align: center;
+    color: #000000;
+}
+
+#ArtIntro{
+    font-size: 1em;
+}
+
+#ArticleBody{
+    text-align: center;
+    color: #000000;
+    margin-left: 400px;
+    margin-right: 400px;
+    word-spacing: 4px;
+}
+
+#Role{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#Skills{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#game{
+    width: 700px;
+}
+
+#code{
+    width: 600px;
+}
+
+#Salary{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#Advice{
+    font-size: 1.6em;
+    text-align: left;
+}
+
+#Sources{
+    font-size: 1.6em;
+}
+
+p{
+    font-size: 1.1em;
+}
+

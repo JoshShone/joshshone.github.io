@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25c40d88-2677-45fd-80a9-298b7fe32ab9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1obYKeWV2Fx7qjD3nnkxumq63Ez" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Uni/GT/Year 2/C++/asgemoviegame-asgemoviez-group-3" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c40d88-2677-45fd-80a9-298b7fe32ab9" name="Default Changelist" comment="" />
+      <created>1613556694127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613556694127</updated>
+      <workItem from="1613556695216" duration="174000" />
+      <workItem from="1613736541208" duration="4081000" />
+      <workItem from="1613787539247" duration="3454000" />
+      <workItem from="1614236802984" duration="7669000" />
+      <workItem from="1614251241143" duration="113000" />
+      <workItem from="1617489690637" duration="111000" />
+      <workItem from="1617489825225" duration="19000" />
+      <workItem from="1618065425196" duration="22000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nearly Finished">
+      <created>1613740390514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613740390514</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Nearly Finished">
+      <created>1613788737354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613788737354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nearly Finished">
+      <created>1613788814957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613788814957</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Nearly Finished">
+      <created>1613790672909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613790672909</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Article Upload">
+      <created>1614245057743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614245057744</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Article Upload">
+      <created>1614245104893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614245104893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Article Upload">
+      <created>1614251294886</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614251294886</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Style updated:&#10;   -Changed background colour from grey to black">
+      <created>1617489795308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617489795308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Style updated:&#10;   -Changed background colour from grey to black">
+      <created>1617489835976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617489835976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Nearly Finished" />
+    <MESSAGE value="Article Upload" />
+    <MESSAGE value="Style updated:&#10;   -Changed background colour from grey to black" />
+    <option name="LAST_COMMIT_MESSAGE" value="Style updated:&#10;   -Changed background colour from grey to black" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="108" key="CommitChangelistDialog2" timestamp="1617489835063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1335" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614251294036" />
+    <state x="585" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617489835063" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1618065446241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1180" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614240970916" />
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618065446241" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1617489838551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614251296969" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617489838551" />
+  </component>
+</project>
